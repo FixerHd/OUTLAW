@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/warning.unity
+    guid: 254a364019ed020498c3bd437f5f7a91
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: daf563f724f88a34ba57e724dc99767e
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 91081c970c092c8409015c8d66c3e65a
+  - enabled: 1
+    path: Assets/Scenes/Noche.unity
+    guid: af3607affc8525e46939de608dfb206f
+  - enabled: 1
+    path: Assets/Scenes/Dia.unity
+    guid: 66de2071ba0bba248b9da7fa6e08604b
+  - enabled: 1
+    path: Assets/Scenes/Tarde.unity
+    guid: 49ea77e7174c4a34991d568ebad68d82
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 070eb5ab87d05fd48a250efb29730067
+  - enabled: 1
+    path: Assets/Scenes/GameOverStarved.unity
+    guid: 62b438d7b2e049f4797a1d8f150c1145
+  - enabled: 1
+    path: Assets/Scenes/GameOverStarved2.unity
+    guid: a5ed84f197b2c6446871978d336bb5a8
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 3a62d1075f50f724ea054d64738f4d3d
+  - enabled: 1
+    path: Assets/Scenes/Void.unity
+    guid: 5ac11e0fe040f1842b333f2b722404f2
+  - enabled: 1
+    path: Assets/Scenes/falsewin.unity
+    guid: 0d16970825e22894f8080caa198605bc
+  - enabled: 1
+    path: Assets/Scenes/finalmalo.unity
+    guid: cbc02dea7ddcd1f4fb7668a9db6c72a8
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 221c08cdf1cd23e4f9d535d6e86e6abc, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7c9d064611c70a5409dde5783de6ee61, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f42f93f7dd59ce7438795f571dfc2212, type: 2}

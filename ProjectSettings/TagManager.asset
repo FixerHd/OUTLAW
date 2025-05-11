@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - terreno
+  - Salami
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - camaramenu
+  - Water
+  - UI
+  - cojonrdchocho
+  - 
+  - InteractRaycast
+  - Player
+  - terreno
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
