@@ -1,6 +1,6 @@
-# OUTLAW: Amador Rivas
+# OUTLAW
 
-**OUTLAW: Amador Rivas** es un juego de terror en primera persona desarrollado en Unity, que combina elementos de survival horror con humor absurdo y referencias culturales españolas.
+**OUTLAW** es un juego de terror en primera persona desarrollado en Unity, que combina elementos de survival horror con humor absurdo y referencias culturales españolas.
 
 ## Descripción
 
